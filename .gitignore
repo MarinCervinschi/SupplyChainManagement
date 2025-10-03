@@ -209,6 +209,8 @@ cython_debug/
 
 .DS_Store
 
+slides/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
